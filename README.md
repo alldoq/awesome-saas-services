@@ -49,6 +49,10 @@ As always, please feel free to make Pull Requests to add additional offerings th
 
 [GitLab Pipelines by puzl.cloud](https://gitlab-pipelines.puzl.cloud/) - Run your GitLab CI/CD faster and cheaper. Focus on CI/CD workflows while we handle your GitLab runners and pipeline jobs.
 
+## Document Sharing & Data Rooms
+
+[Beamprobe](https://beamprobe.com) - UK virtual data room for fundraising, M&A diligence, and accountant/solicitor client portals. AES-256 envelope encryption, NDA gate with signed-PDF audit trail, per-page heatmap analytics, custom domains. EU + US data residency. From £19/month flat — no per-user pricing.
+
 ## Sales
 
 [HubSpot](https://www.hubspot.com) - Generate leads, close deals & manage your pipeline with the Hubspot growth stack.
